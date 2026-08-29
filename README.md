@@ -19,8 +19,8 @@ The easiest way to get started:
 
 ```bash
 # Clone and enter the repo
-git clone https://github.com/shlokkhemani/OpenPoke
-cd OpenPoke
+git clone https://github.com/vedanth-jadhav/whatsapp-poke.git
+cd whatsapp-poke
 
 # Copy and configure environment
 cp .env.example .env
@@ -46,8 +46,8 @@ If you prefer step-by-step setup:
 
 1. **Clone and enter the repo:**
    ```bash
-   git clone https://github.com/shlokkhemani/OpenPoke
-   cd OpenPoke
+   git clone https://github.com/vedanth-jadhav/whatsapp-poke.git
+   cd whatsapp-poke
    ```
 
 2. **Create a shared env file:**
@@ -124,6 +124,3 @@ The web app proxies API calls to the Python server using the values in `.env`.
 
 ## License
 MIT — see [LICENSE](LICENSE).
-# openpoke
-# openpoke
-# whatsapp-poke
